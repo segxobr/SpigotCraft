@@ -209,6 +209,7 @@ groups:
       rank: 200
       prefix: '&f[&5Moderator&f] '
   Admin:
+  - Segxo
     permissions:
     - '*'
     inheritance:
